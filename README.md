@@ -13,3 +13,4 @@ sim1.py
 sim2.py
 wsd1.py
 wsd2.py
+use https://kl09joker.github.io/nlp/<filename.py>
