@@ -13,5 +13,3 @@ Practical Test
 [sim2.py](https://kl09joker.github.io/nlp/sim2.py)  
 [wsd1.py](https://kl09joker.github.io/nlp/wsd1.py)  
 [wsd2.py](https://kl09joker.github.io/nlp/wsd2.py)  
-
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
